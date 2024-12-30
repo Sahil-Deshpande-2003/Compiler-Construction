@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=UE0B2io8K5o
+Regular language 
+DFA nfa Start from https://www.youtube.com/watch?v=WKPeYsuBpm4&list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i&index=17&ab_channel=GateSmashers
+
+epsilon nfa Regex
+Conversions between these
+LLG, RLG maybe 
+CFG 
+Types of cfg, CNF, GNF
+Basic knowledge of ambiguous, unambiguous grammar
+
+1 Q on all parsers

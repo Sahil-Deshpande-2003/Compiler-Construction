@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/compiler-design-syntax-directed-definition/
+https://www.geeksforgeeks.org/intermediate-code-generation-in-compiler-design/
+https://www.geeksforgeeks.org/three-address-code-compiler/
+https://www.geeksforgeeks.org/backpatching-in-compiler-design/
+https://www.geeksforgeeks.org/lexical-error/
+https://www.youtube.com/watch?v=c0RZP-e9Hsw&list=PL_obO5Qb5QTEZrWlX_B19OV5nJViKGnnC&index=50&ab_channel=LSAcademyforTechnicalEducation
+
+regex
+
+https://chatgpt.com/share/673efec9-32dc-800a-bf05-fa172a3f769b
